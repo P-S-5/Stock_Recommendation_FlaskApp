@@ -1,0 +1,4 @@
+{'label': 'positive', 'score': 0.5409359335899353}
+{'label': 'neutral', 'score': 0.495814710855484}
+{'label': 'neutral', 'score': 0.6699742078781128}
+{'label': 'neutral', 'score': 0.9307721257209778}
